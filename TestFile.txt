@@ -1,0 +1,6 @@
+The following structure is created at the time:
+Inintial
+|
+Initial + structure
+|
+origin master is set as upstream
